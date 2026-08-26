@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AS GenAI</string>
+    <string name="splash_app_name">AS GenAI ChatBot</string>
+    <string name="splash_tagline">AI Chat bot developed by Aman Sharma</string>
+</resources>
