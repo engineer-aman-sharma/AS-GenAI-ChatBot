@@ -39,13 +39,13 @@ The focus was on creating a lightweight and practical AI chat experience while k
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/Screenshot_1.jpg" width="30%" />
-  <img src="screenshots/Screenshot_2.jpg" width="30%" />
-  <img src="screenshots/Screenshot_3.jpg" width="30%" />
+  <img src="screenshots/Screenshot_1.jpg" width="45%" />
+  <img src="screenshots/Screenshot_2.jpg" width="45%" />
 </p>
 
 <p align="center">
-  <img src="screenshots/Screenshot_4.jpg" width="30%" />
+  <img src="screenshots/Screenshot_3.jpg" width="45%" />
+  <img src="screenshots/Screenshot_4.jpg" width="45%" />
 </p>
 
 ## Project
